@@ -1,0 +1,18 @@
+.qr-reader 
+    {
+    width: 500px;
+    height: 500px;
+}
+
+.btn-secundary-qr{
+   color: #333;
+   text-decoration: underline;
+}
+
+a:visited.btn-secundary-qr {
+    color: #333 !important;
+}
+
+.qr-title{
+  
+}
